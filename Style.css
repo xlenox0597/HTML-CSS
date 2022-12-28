@@ -1,9 +1,22 @@
 body{
-    background: #e3e4e5;
+    background-image: url(https://wallpapercave.com/wp/wp9441792.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+h1{
+    color: #efb810;
+    text-align: center;
 }
 
 p{
     text-align: center;
+}
+
+strong{
+    color: #efb810;
 }
 
 em strong{
