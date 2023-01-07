@@ -1,16 +1,21 @@
-body{
-    background-color: #000000;
-    color: #FFFFFF;
+.titulo-principal{
+    background-color: #efb810;
+    padding-left: 30px;
 }
 
 #banner{
-    width: 100%;
+    width:100%;
 }
 
-h1{
-    font-size: 30px;
-    color: #efb810;
+.principal{
+    color: #FFFFFF;
+    background: #000000;
+    padding: 20px;
+}
+
+.titulo-centralizado{
     text-align: center;
+    color: #FFFFFF;
 }
 
 p{
@@ -18,17 +23,30 @@ p{
 }
 
 em strong{
-    font-size: 20px;
     color: #efb810;
 }
 
 #mision{
     font-size: 20px;
-    color: #efb810;
+}
+
+.diferenciales{
+    background: #efb810;
+    padding: 30px;
 }
 
 .items{
     font-style: italic;
-    font-size: 16px;
-    color: #efb810;
 }
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
